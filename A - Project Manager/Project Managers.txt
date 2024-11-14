@@ -1,0 +1,8 @@
+Product Managers: 
+Define product vision, strategy, and requirements based on market needs and user feedback.
+
+Project Managers: 
+Ensure projects are completed on time, within scope, and on budget.
+
+Business Analysts: 
+Analyze market trends, gather requirements, and work with stakeholders to shape product direction.
