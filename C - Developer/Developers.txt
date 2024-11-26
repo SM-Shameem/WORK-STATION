@@ -1,0 +1,8 @@
+Backend Developers: 
+Work on server-side development and database management.
+
+Frontend Developers: 
+Focus on the user interface (UI) and user experience (UX).
+
+Mobile Developers: 
+Create and maintain mobile applications (iOS and Android).
